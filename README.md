@@ -39,7 +39,7 @@ Open your terminal and paste the following command:
 
 Bash
 git clone https://github.com/ChiefVenzox/Calculator.git
-(Not: Eğer GitHub'da farklı bir isim kullandıysanız, URL'yi ona göre güncelleyin.)
+
 
 Open the Project in Xcode:
 Navigate to the cloned directory and open the .xcodeproj file with Xcode.
